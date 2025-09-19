@@ -1,0 +1,14 @@
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\bin\Debug\net8.0\Trabalho_Array.exe
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\bin\Debug\net8.0\Trabalho_Array.deps.json
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\bin\Debug\net8.0\Trabalho_Array.runtimeconfig.json
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\bin\Debug\net8.0\Trabalho_Array.dll
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\bin\Debug\net8.0\Trabalho_Array.pdb
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\Trabalho_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\Trabalho_Array.AssemblyInfoInputs.cache
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\Trabalho_Array.AssemblyInfo.cs
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\Trabalho_Array.csproj.CoreCompileInputs.cache
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\Trabalho_Array.dll
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\refint\Trabalho_Array.dll
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\Trabalho_Array.pdb
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\Trabalho_Array.genruntimeconfig.cache
+C:\Users\guide\Documents\Trabalho_Array\Trabalho_Array\obj\Debug\net8.0\ref\Trabalho_Array.dll
